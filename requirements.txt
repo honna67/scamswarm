@@ -1,0 +1,4 @@
+   uagents
+   python-dotenv
+   requests
+   
