@@ -131,4 +131,4 @@ MIT. See [LICENSE](LICENSE).
 
 ScamSwarm provides automated, informational analysis only. It cannot guarantee that a message is safe or fraudulent. Verify offers through official websites and contact details you find yourself.
 
-Built by honna67(https://github.com/honna67/scamswarm).
+Built by honna67(https://github.com/honna67).
